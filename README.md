@@ -34,4 +34,4 @@ Read the socket protocol [here](https://github.com/9aze/rd-multiplayer/blob/main
 - Player rendering
 - Server-side world saving/loading
 - A server-side AntiCheat
-- *And more....*
+- *And more...*
